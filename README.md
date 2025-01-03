@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi, I'm Lucas!
+
+- I started my journey in 2023 as an intern, today I am a Junior Infrastructure Support Analyst at Tata Consultancy Services.
+- I am a Computer Engineering student.
+- I am very interested and want to specialize in the area of ​​Data Science and Automation.
+
+##
+### Social Media
+
 
 <!--
 **lucasspolli/lucasspolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
