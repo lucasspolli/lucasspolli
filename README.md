@@ -10,7 +10,7 @@
 
 ##
 ### Technologies
-<img src="https://skillicons.dev/icons?i=py,pandas,selenium,matplotlib,mysql&theme=dark&perline=1"/>
+[![Technologies](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 <!--
 **lucasspolli/lucasspolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
