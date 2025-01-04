@@ -11,7 +11,10 @@
 ##
 ### Technologies
 [![Technologies](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-
+[![Technologies](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 <!--
 **lucasspolli/lucasspolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
